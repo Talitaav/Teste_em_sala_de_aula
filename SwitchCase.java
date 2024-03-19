@@ -42,7 +42,7 @@ public class SwitchCase {
 
 		default:
 
-			System.out.println("Não há dias conrrespondetes");
+			System.out.println("Não há dias correspondentes");
 
 		}
 	}
